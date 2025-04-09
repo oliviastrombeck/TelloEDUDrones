@@ -65,9 +65,12 @@ try:
 
         # Commit Message: Second Hoop - Stable - ascend to third hoop
         #              X Y Z  x2 y2 z2 Speedh
+        def speed_value
+        sendmsg(speed_value = speed)
+        sendmsg(speed=50)
 
-
-        #sendmsg ('curve -100 0 100 100 0 50', speed = 50)
+        sendmsg('curve 10 0 0 10 15 10')
+        #sendmsg ('curve -1 00 0 100 100 0 50', speed = 50)
         # Commit Message: Third Hoop - Stable
 
 
